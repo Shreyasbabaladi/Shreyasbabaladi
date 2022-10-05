@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreyas babaladi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **React**
-
-- 🌱 I’m currently learning **React**
+- 🔭 I’m currently working with PayPal helping on developing reusable components in react 
 
 
 <h3 align="left">Languages and Tools:</h3>
