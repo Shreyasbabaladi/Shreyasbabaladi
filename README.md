@@ -1,7 +1,22 @@
+<div align="center"><img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" ></div>
 <h1 align="center">Hi 👋, I'm Shreyas babaladi</h1>
-<h3 align="center">A Passionate frontend developer from India</h3>
+<h5 align="center">Focused, Skilled and Passionate Software Engineer with 1.7 years of
+experience in Frontend domain worked for various projects and clients.
+contributed to achieve the organization goal and excited to learn new
+technologies.
+</h5>
+ 
 
-- 🔭 I’m currently working with PayPal helping on developing reusable components in react 
+<br><br>
+### Skills
+* React js
+* JavaScipt
+* Nodejs
+* Express js
+* Java 
+* HTML, CSS, Less
+* CMS 
+* SQL
 
 
 <h3 align="left">Languages and Tools:</h3>
