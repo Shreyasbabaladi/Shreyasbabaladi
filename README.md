@@ -1,6 +1,6 @@
 <div align="center"><img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" ></div>
 <h1 align="center">Hi 👋, I'm Shreyas babaladi</h1>
-<h5 align="center">Focused, Skilled and Passionate Software Engineer with 1.7 years of
+<h5 align="center">Focused, Skilled and Passionate Software Engineer with 2 years of
 experience in Frontend domain worked for various projects and clients.
 contributed to achieve the organization goal and excited to learn new
 technologies.
